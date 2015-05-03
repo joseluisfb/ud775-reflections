@@ -39,7 +39,7 @@ the diagram the way we do?
 pointing to two older commits simultaneously.
 
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
 
     Automatic merging can join two code files easily. Manual merging is only
